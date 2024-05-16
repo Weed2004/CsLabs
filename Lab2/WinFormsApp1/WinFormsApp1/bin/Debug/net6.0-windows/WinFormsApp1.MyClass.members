@@ -1,0 +1,14 @@
+Int32 Method1(System.String)
+Void Method2()
+Void Interface1Method1()
+Void Interface1Method2(System.String)
+Void Interface2Method1()
+Void Interface2Method2(System.String)
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+Void .ctor()
+Void .ctor(System.String)
+System.String publicStr
+System.String staticStr
